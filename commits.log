@@ -1,0 +1,98 @@
+commit 64c489dff50ea5ab4d613139b0d90fc2a65f9629
+Author: Francisco Samuel <samrc027@gmail.com>
+Date:   Mon Jan 2 15:34:20 2023 -0600
+
+    Agregando dos parafos
+
+commit d1daade414bfad0347ecff808152b89b8fcd9d1e
+Merge: 3087c12 93747ba
+Author: Francisco Samuel <samrc027@gmail.com>
+Date:   Mon Jan 2 15:31:44 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 3087c12fb21a902460be92846967600be5d3abbd
+Author: Francisco Samuel <samrc027@gmail.com>
+Date:   Mon Jan 2 15:12:08 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 93747baba1dbcbc8e57937fdc1830e28859073a8
+Author: Francisco Samuel <samrc027@gmail.com>
+Date:   Mon Jan 2 15:12:08 2023 -0600
+
+    Agregando las estaciones del año
+
+commit 3ba1367ce85df9a600e4e0d1be38a32ae1d090fb
+Merge: 2063a2f 78e10dd
+Author: Francisco Samuel <samrc027@gmail.com>
+Date:   Sat Dec 31 22:37:12 2022 -0600
+
+    Resolviendo conflicto merge main/main en el documento index.html
+
+commit 78e10dd1246d770093f5374cb878c6eb193119a6
+Author: Francisco Samuel <samrc027@gmail.com>
+Date:   Sat Dec 31 17:03:46 2022 -0600
+
+    Agregando index.js al index.html
+
+commit 2063a2f2e58be55cc9502546a81488867741994f
+Author: Francisco Samuel <samrc027@gmail.com>
+Date:   Sat Dec 31 16:55:13 2022 -0600
+
+    Agregando style.css al index.html
+
+commit 778d087ca45765c3cfa1d5b2e57f272b296bdc15
+Merge: 5a60e0a b97ced7
+Author: Francisco Samuel <samrc027@gmail.com>
+Date:   Sat Dec 31 16:40:56 2022 -0600
+
+    Merge branch 'js'
+
+commit b97ced74d3948f2f2e502b59fbd2fefbf3aa732f
+Author: Francisco Samuel <samrc027@gmail.com>
+Date:   Sat Dec 31 16:34:31 2022 -0600
+
+    Creando index.js
+
+commit 5a60e0ac8c7a6478c7e83c9dec5354d7c9748d67
+Author: Francisco Samuel <samrc027@gmail.com>
+Date:   Sat Dec 31 16:30:13 2022 -0600
+
+    Creando style.css
+
+commit cb27f0e55c0b6812a7dd91ac26bd307486da5b5b
+Author: Francisco Samuel <samrc027@gmail.com>
+Date:   Sat Dec 31 16:26:09 2022 -0600
+
+    Creando index.html
+
+commit dd52f7f31dfb7f59fffd04be49dcea3c15307c84
+Author: Francisco Samuel <samrc027@gmail.com>
+Date:   Sat Dec 31 16:14:56 2022 -0600
+
+    Ignorando archivos .exe
+
+commit e7ecf39b8438dd4c8a53086f0fd6c08370854847
+Author: Francisco <75954079+Frank027@users.noreply.github.com>
+Date:   Sat Dec 31 15:51:00 2022 -0600
+
+    Creando licencia del repositorio
+
+commit 74a160f9804cc0ee2417c8484a880c8b627c44d5
+Author: Francisco Samuel <samrc027@gmail.com>
+Date:   Sat Dec 31 15:45:49 2022 -0600
+
+    Agregando más contenido al README
+
+commit 201d50412eeef427a63202208dafb851b6c01056
+Author: Francisco Samuel <samrc027@gmail.com>
+Date:   Sat Dec 31 15:38:35 2022 -0600
+
+    Agregando contenido inicial al README
+
+commit af52b7180e5e40dd990bc6b178e5cf760caa181f
+Author: Francisco Samuel <samrc027@gmail.com>
+Date:   Sat Dec 31 15:33:30 2022 -0600
+
+    Primer commit 🙂
